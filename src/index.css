@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url('https://cdn.discordapp.com/attachments/695051266195456140/912877510881067008/pizza_background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
