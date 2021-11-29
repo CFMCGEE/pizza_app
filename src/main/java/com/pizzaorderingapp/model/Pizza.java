@@ -17,9 +17,6 @@ public class Pizza {
     private Long id;
 
     private String crust;
-
-//    @ElementCollection
-//    @CollectionTable(name = "pizza_toppings", joinColumns = @JoinColumn(name = "id"))
     private String toppings;
 
     public Pizza(Long id, String crust, String toppings) {
